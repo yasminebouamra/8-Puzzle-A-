@@ -1,2 +1,6 @@
-# test
- ceci est un test
+# 8-Puzzle solver using A* path finder algorithm
+ 
+ ## Tools : 
+ * Python 
+ * Processing.py 
+ 
